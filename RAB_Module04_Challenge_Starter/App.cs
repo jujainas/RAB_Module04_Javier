@@ -5,6 +5,7 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using System.Reflection;
+using System.Windows.Media.Imaging;
 
 namespace RAB_Module04_Challenge_Starter
 {
